@@ -12,14 +12,14 @@ Criar um API
 }
 - [X] Criar uma rota para acessar a API
 - [X] Servir a API
-- [] Habilitar o CORS
+- [X] Habilitar o CORS
 - [] Habilitar o nodemon para reiniciar o server
 
 ## FRONTEND
 
 Consumir API
-- [] Utilizar fetch para consumir nossa API backend
-- [] Explicar Promise - Async/Await
+- [X] Utilizar fetch para consumir nossa API backend
+- [X] Explicar Promise - Async/Await
 - [] Usar try/catch
 - [] Monstrar a resposta na tela
 
