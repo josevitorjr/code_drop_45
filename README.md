@@ -13,20 +13,20 @@ Criar um API
 - [X] Criar uma rota para acessar a API
 - [X] Servir a API
 - [X] Habilitar o CORS
-- [] Habilitar o nodemon para reiniciar o server
+- [X] Habilitar o nodemon para reiniciar o server
 
 ## FRONTEND
 
 Consumir API
 - [X] Utilizar fetch para consumir nossa API backend
 - [X] Explicar Promise - Async/Await
-- [] Usar try/catch
-- [] Monstrar a resposta na tela
+- [X] Usar try/catch
+- [X] Monstrar a resposta na tela
 
 ## BACKEND
 
 Consumir API
-- [] Jsonplaceholder
-- [] Usar axios
-- [] Semelhanças entre Axios e Fetch
-- [] Usar try/catch
+- [X] Jsonplaceholder (https://jsonplaceholder.typicode.com/users)
+- [X] Usar axios
+- [X] Semelhanças entre Axios e Fetch
+- [X] Usar try/catch
